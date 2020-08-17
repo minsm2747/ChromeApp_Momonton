@@ -14,3 +14,12 @@ h1 {
 .clicked {
     color: #7f8c8d;
 }
+
+.js-form, 
+.js-greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
