@@ -8,18 +8,18 @@ body {
 
 h1 {
     color: #FF8200;
-    transition: color 0.5s ease-in-out;
+    /* transition: color 0.5s ease-in-out; */
 }
 
 .clicked {
     color: #7f8c8d;
 }
 
-.js-form, 
+/* .js-form, 
 .js-greetings {
     display: none;
-}
+} */
 
-.showing {
+/* .showing {
     display: block;
-}
+} */
